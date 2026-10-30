@@ -1,3 +1,4 @@
- ```json
-   { "updated": "", "mods": [] }
-   ```
+{
+  "updated": "",
+  "mods": []
+}

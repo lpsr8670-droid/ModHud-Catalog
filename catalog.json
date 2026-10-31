@@ -1,4 +1,22 @@
 {
-  "updated": "2026-10-30",
-  "mods": []
+  "updated": "2026-10-31",
+  "mods": [
+    {
+      "id": "test",
+      "gameVersion": "1.0",
+      "arch": "32/64-bit",
+      "versions": [],
+      "features": [
+        "one"
+      ],
+      "storeVersion": "1.1",
+      "downloadUrl": "https://www.mediafire.com/file/x/y.apk/file",
+      "description": "test",
+      "sizeMb": 10,
+      "game": "Test Game",
+      "poster": "",
+      "package": "com.test",
+      "modVersion": "1.0"
+    }
+  ]
 }

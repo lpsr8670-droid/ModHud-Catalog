@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "mods": [
     {
       "id": "granny",
@@ -11,7 +11,7 @@
       "arch": "32/64-bit",
       "modVersion": "1.1",
       "gameVersion": "1.8.2",
-      "storeVersion": "1.0.0",
+      "storeVersion": "1.8.12",
       "sizeMb": 85,
       "downloadUrl": "https://www.mediafire.com/file/granny_1_1.apk/file",
       "versions": []

@@ -1,33 +1,20 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-10-31",
   "mods": [
     {
       "id": "granny",
-      "gameVersion": "1.8.2",
-      "arch": "32/64-bit",
-      "versions": [
-        {
-          "date": "2026-09-20",
-          "version": "1.0",
-          "downloadUrl": "https://www.mediafire.com/file/granny_1_0.apk/file",
-          "sizeMb": 82
-        }
-      ],
-      "features": [
-        "Все двери открыты",
-        "Бесконечные дни",
-        "Granny не атакует",
-        "Разблокированы все предметы",
-        "Скорость передвижения x2"
-      ],
-      "storeVersion": "1.8.12",
-      "downloadUrl": "https://www.mediafire.com/file/granny_1_1.apk/file",
-      "description": "Хоррор-игра, где нужно выбраться из дома за 5 дней, пока Granny тебя не поймала. Мод открывает все двери и убирает противника.",
-      "sizeMb": 85,
       "game": "Granny",
-      "poster": "https://raw.githubusercontent.com/lpsr8670-droid/ModHud-Catalog/main/img/granny_granny.png",
       "package": "com.dvloper.granny",
-      "modVersion": "1.1"
+      "poster": "https://raw.githubusercontent.com/lpsr8670-droid/ModHud-Catalog/main/img/granny_granny.png",
+      "description": "x",
+      "features": [],
+      "arch": "32/64-bit",
+      "modVersion": "1.1",
+      "gameVersion": "1.8.2",
+      "storeVersion": "1.0.0",
+      "sizeMb": 85,
+      "downloadUrl": "https://www.mediafire.com/file/granny_1_1.apk/file",
+      "versions": []
     }
   ]
 }

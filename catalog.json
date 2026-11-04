@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-04",
   "mods": [
     {
       "id": "granny",
@@ -28,6 +28,27 @@
           "date": "2026-09-20"
         }
       ]
+    },
+    {
+      "id": "tomhero",
+      "game": "Tom's Hero Dash",
+      "package": "com.outfit7.herodash",
+      "poster": "https://raw.githubusercontent.com/lpsr8670-droid/ModHud-Catalog/main/img/tomhero.jpg",
+      "description": "Беговой раннер с Томом и его друзьями: спасай город от енотов-злодеев, собирай монеты и открывай сундуки. В моде неограниченные деньги, гемы и сундуки, а реклама отключена.",
+      "features": [
+        "Много денег (монеты прибавляются при трате)",
+        "Много гемов",
+        "Много сундуков",
+        "Реклама отключена",
+        "Бесплатные покупки"
+      ],
+      "arch": "64-bit",
+      "modVersion": "1.0",
+      "gameVersion": "26.5.1.12192",
+      "storeVersion": "26.5.1.12192",
+      "sizeMb": 158.3,
+      "downloadUrl": "https://www.mediafire.com/file/zucbkw3r7w7c4sp/com.outfit7.herodash+v26.5.1.12192_antisplit.apk/file",
+      "versions": []
     }
   ]
 }
